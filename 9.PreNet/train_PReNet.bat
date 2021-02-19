@@ -1,0 +1,1 @@
+python train_PReNet.py --save_path logs/HeavyRain/PReNet1e-5_HR --lr 1e-5
